@@ -1,0 +1,22 @@
+#!/bin/bash 
+pydca trim_by_refseq 'rna' uncut/RF02977.fa sequences/7wii_V.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00028.fa sequences/7yga_N.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00168.fa sequences/8eyu_B.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00059.fa sequences/8f4o_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00522.fa sequences/8fb3_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF01079.fa sequences/8hb8_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF01684.fa sequences/8k2z_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00174.fa sequences/8sa3_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00386.fa sequences/8sp9_C.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00163.fa sequences/8t5o_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF01750.fa sequences/8vvj_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF03493.fa sequences/8vxz_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF03300.fa sequences/8xtr_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF01136.fa sequences/8z8u_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00419.fa sequences/8zau_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00250.fa sequences/9de7_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF03072.fa sequences/9ely_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF03013.fa sequences/9is7_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00167.fa sequences/9iwf_A.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF00176.fa sequences/9jgm_C.fasta --remove_all_gaps --verbose 
+pydca trim_by_refseq 'rna' uncut/RF02933.fa sequences/9kph_A.fasta --remove_all_gaps --verbose 

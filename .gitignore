@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+.vscode/
+BioHelpers/
+Maps_png/
+Rfam.cm*
+my.cmsearch*
+my.cmscan*
+cm/
+
+# pixi environments
+.pixi
+*.egg-info
+pixi.lock

@@ -1,0 +1,22 @@
+Family,PDB,Chain,Filename,L,Meff,From_One,Add_Tail,Unmodelled_Regions
+RF02977,7wii,V,7wii_V,50,2.574936,False,0,"[(30, 30)]"
+RF00028,7yga,N,7yga_N,393,9.0,False,0,[]
+RF00168,8eyu,B,8eyu_B,49,3.1018467,False,0,"[(7, 10)]"
+RF00059,8f4o,A,8f4o_A,83,67.5262,True,1,"[(1, 3), (20, 23), (45, 47), (83, 83)]"
+RF00522,8fb3,A,8fb3_A,34,5.7780747,False,0,[]
+RF01079,8hb8,A,8hb8_A,55,2.0,False,0,[]
+RF01684,8k2z,A,8k2z_A,57,4.601727,False,0,[]
+RF00174,8sa3,A,8sa3_A,210,294.5048,False,0,[]
+RF00386,8sp9,C,8sp9_C,153,3.9999938,False,2,"[(44, 58), (152, 153)]"
+RF00163,8t5o,A,8t5o_A,124,4.0,True,7,"[(1, 4), (113, 114), (118, 124)]"
+RF01750,8vvj,A,8vvj_A,64,53.520058,False,0,[]
+RF03493,8vxz,A,8vxz_A,36,2.0,False,0,[]
+RF03300,8xtr,A,8xtr_A,219,2.0,False,0,"[(137, 210)]"
+RF01136,8z8u,A,8z8u_A,41,1.9999998,False,0,[]
+RF00419,8zau,A,8zau_A,69,7.9359026,False,0,"[(63, 63)]"
+RF00250,9de7,A,9de7_A,58,1.9462442,False,0,[]
+RF03072,9ely,A,9ely_A,205,51.8212,True,0,"[(1, 3)]"
+RF03013,9is7,A,9is7_A,153,9.144511,False,0,"[(111, 140)]"
+RF00167,9iwf,A,9iwf_A,69,44.6877,False,0,[]
+RF00176,9jgm,C,9jgm_C,105,2.0000005,False,0,[]
+RF02933,9kph,A,9kph_A,255,14.809521,True,0,"[(1, 6)]"

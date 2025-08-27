@@ -1,0 +1,25 @@
+[project]
+authors = ["Christian Faber <chris-faber@gmx.de>"]
+channels = ["conda-forge"]
+description = "Project for the analysis of contact maps for RNA Structure Prediction."
+name = "REMC"
+platforms = ["osx-arm64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+black = ">=25.1.0,<26"
+pandas = ">=2.2.3,<3"
+ipykernel = ">=6.29.5,<7"
+pip = ">=25.1,<26"
+pdbfixer = ">=1.11,<2"
+jinja2 = ">=3.1.6,<4"
+
+
+[pypi-options]
+extra-index-urls = ["https://gitlab.jsc.fz-juelich.de/api/v4/projects/6167/packages/pypi/simple"]
+
+[pypi-dependencies]
+biohelpers-faber = ">=0.3.2, <0.4"
