@@ -1,5 +1,6 @@
 # Plots and Data for Contact Map Analysis
 [![DOI](https://zenodo.org/badge/1045559859.svg)](https://doi.org/10.5281/zenodo.16964018)
+
 Git repository with Data and Analysis for the publication *Influence of Contact Map Topology on RNA Structure Prediction*.
 
 ## Requirements
