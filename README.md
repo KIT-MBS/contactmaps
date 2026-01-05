@@ -1,18 +1,20 @@
 # Plots and Data for Contact Map Analysis
 [![DOI](https://zenodo.org/badge/1045559859.svg)](https://doi.org/10.5281/zenodo.16964018)
 
-Git repository with Data and Analysis for the publication *Influence of Contact Map Topology on RNA Structure Prediction*.
+Git repository with Data and Analysis for the publication *Influence of Contact Map Topology on RNA Structure Prediction [^1]*.
+
+[^1]: Faber, C., Upadhyay, U., Taubert, O. and Schug, A. (2025) Influence of contact map topology on RNA structure prediction. Nucleic Acids Research, 53(22), gkaf1370.
 
 ## Requirements
 To execute all the scripts you need:
-- pyDCA [^1]
+- pyDCA [^2]
 - self written Helper library see [here](https://gitlab.jsc.fz-juelich.de/faber1/biohelpers)
 - for effective sequence number calculation `sequeff`, see [here](https://gitlab.jsc.fz-juelich.de/faber1/sequeff)
-- Testset from Pucci et al.[^2]
+- Testset from Pucci et al.[^3]
 - to include all dependencies we highly recommend using [pixi](https://pixi.sh/latest/)
 
-[^1]: Zerihun,M.B., Pucci,F., Peter,E.K. and Schug,A. (2020) pydca v1.0: a comprehensive software for direct coupling analysis of RNA and protein sequences. Bioinformatics, 36, 2264–2265.
-[^2]: Pucci,F., Zerihun,M.B., Peter,E.K. and Schug,A. (2020) Evaluating DCA-based method performances for RNA contact prediction by a well-curated data set.
+[^2]: Zerihun,M.B., Pucci,F., Peter,E.K. and Schug,A. (2020) pydca v1.0: a comprehensive software for direct coupling analysis of RNA and protein sequences. Bioinformatics, 36, 2264–2265.
+[^3]: Pucci,F., Zerihun,M.B., Peter,E.K. and Schug,A. (2020) Evaluating DCA-based method performances for RNA contact prediction by a well-curated data set. RNA, 26(7), 794-802.
 
 
 ## Structure
